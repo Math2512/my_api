@@ -1,4 +1,4 @@
-# Soycue-API
+# MON-API (DIWATCH)
 
 Mon api pour une application de réseau social de vieille --in progress
 
@@ -13,7 +13,7 @@ Mon api pour une application de réseau social de vieille --in progress
     -DB_CONNECTION=mysql
     -DB_HOST=127.0.0.1
     -DB_PORT=3306
-    -DB_DATABASE=test_soyhuce
+    -DB_DATABASE=my_app
     -DB_USERNAME=root
     -DB_PASSWORD=
 
